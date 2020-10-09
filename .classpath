@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/jetty-7.0.0.pre5.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/easymock-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-boot-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/javax.persistence-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/org.springframework.web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/org.springframework.beans-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-web-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-context-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-data-jpa-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-boot-autoconfigure-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/junit-jupiter-api-5.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/spring-boot-starter-test-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/junit-jupiter-params-5.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/junit-jupiter-5.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/kj/Documents/projects/junittest4/lib/junit-jupiter-engine-5.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
